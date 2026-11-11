@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 中文定制版使用反馈
+    url: https://github.com/Wrestle7/humanizer/issues
+    about: 反馈中文语言约定、安装或使用问题。
+  - name: AI detectors still flag the output
+    url: https://github.com/blader/humanizer#humanizer
+    about: Getting past AI detectors is not a goal. Humanizer edits for human readers.
